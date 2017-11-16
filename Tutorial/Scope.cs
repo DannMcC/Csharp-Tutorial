@@ -1,10 +1,16 @@
 ﻿using System;
+
 namespace Tutorial
 {
-    public class Scope
+    class Scope
     {
-        public Scope()
+        static void Main(string[] args)
         {
+            Console.WriteLine("What is your name?");
+            string response = Console.ReadLine();
+            Console.WriteLine("Hello " + response);
+            Console.WriteLine("Press enter to close...");
+            Console.ReadLine();
         }
     }
 }
