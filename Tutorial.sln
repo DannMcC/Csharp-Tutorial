@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial", "Tutorial\Tutori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scope", "Scope\Scope.csproj", "{207D12B2-1394-46C7-A643-6C32719E32CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{BD04C6DE-6540-493A-8B76-6C3824F1FB9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{207D12B2-1394-46C7-A643-6C32719E32CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{207D12B2-1394-46C7-A643-6C32719E32CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{207D12B2-1394-46C7-A643-6C32719E32CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD04C6DE-6540-493A-8B76-6C3824F1FB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD04C6DE-6540-493A-8B76-6C3824F1FB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD04C6DE-6540-493A-8B76-6C3824F1FB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD04C6DE-6540-493A-8B76-6C3824F1FB9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
